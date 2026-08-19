@@ -1,0 +1,10 @@
+# Do not edit manually
+# Language detection rules
+# Configuration for git attributes
+* text=auto
+
+static/*.html linguist-vendored
+*.gif binary
+*.sh text eol=lf
+yarn.lock linguist-generated
+*.py linguist-detectable
